@@ -1,0 +1,1859 @@
+[Sun Oct 21 23:05:05 2012] [info] Listening at "http://*:3000".
+[Sun Oct 21 23:06:13 2012] [info] Listening at "http://*:3000".
+[Sun Oct 21 23:06:18 2012] [info] Listening at "http://*:3000".
+[Sun Oct 21 23:08:51 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:08:51 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:08:51 2012] [debug] aadata
+[Sun Oct 21 23:08:51 2012] [debug] 200 OK (0.008920s, 112.108/s).
+[Sun Oct 21 23:09:41 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:09:41 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:09:41 2012] [debug] aadata
+[Sun Oct 21 23:09:41 2012] [debug] 200 OK (0.004861s, 205.719/s).
+[Sun Oct 21 23:10:06 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:10:06 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:10:06 2012] [debug] aadata
+[Sun Oct 21 23:10:06 2012] [debug] 200 OK (0.004752s, 210.438/s).
+[Sun Oct 21 23:10:46 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:10:46 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:10:46 2012] [debug] aadata
+[Sun Oct 21 23:10:46 2012] [debug] 200 OK (0.002577s, 388.048/s).
+[Sun Oct 21 23:10:49 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:10:49 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:10:49 2012] [debug] aadata
+[Sun Oct 21 23:10:49 2012] [debug] 200 OK (0.002605s, 383.877/s).
+[Sun Oct 21 23:10:57 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:10:57 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:10:57 2012] [debug] aadata
+[Sun Oct 21 23:10:57 2012] [debug] 200 OK (0.002472s, 404.531/s).
+[Sun Oct 21 23:11:30 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:11:30 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:11:30 2012] [debug] aadata
+[Sun Oct 21 23:11:30 2012] [debug] 200 OK (0.004764s, 209.908/s).
+[Sun Oct 21 23:11:35 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:11:35 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:11:35 2012] [debug] aadata
+[Sun Oct 21 23:11:35 2012] [debug] 200 OK (0.002587s, 386.548/s).
+[Sun Oct 21 23:11:36 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:11:36 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:11:36 2012] [debug] aadata
+[Sun Oct 21 23:11:36 2012] [debug] 200 OK (0.003023s, 330.797/s).
+[Sun Oct 21 23:11:38 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:11:38 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:11:38 2012] [debug] aadata
+[Sun Oct 21 23:11:38 2012] [debug] 200 OK (0.002542s, 393.391/s).
+[Sun Oct 21 23:12:16 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:12:16 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:12:16 2012] [debug] aadata
+[Sun Oct 21 23:12:16 2012] [debug] 200 OK (0.002526s, 395.883/s).
+[Sun Oct 21 23:12:26 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:12:26 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:12:26 2012] [debug] aadata
+[Sun Oct 21 23:12:26 2012] [debug] 200 OK (0.002910s, 343.643/s).
+[Sun Oct 21 23:12:31 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:12:31 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:12:31 2012] [debug] aadata
+[Sun Oct 21 23:12:31 2012] [debug] 200 OK (0.002318s, 431.406/s).
+[Sun Oct 21 23:13:40 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:13:40 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:13:40 2012] [debug] aadata
+[Sun Oct 21 23:13:40 2012] [debug] 200 OK (0.010024s, 99.761/s).
+[Sun Oct 21 23:13:42 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:13:42 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:13:42 2012] [debug] aadata
+[Sun Oct 21 23:13:42 2012] [debug] 200 OK (0.002543s, 393.236/s).
+[Sun Oct 21 23:13:52 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:13:52 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:13:52 2012] [debug] aadata
+[Sun Oct 21 23:13:52 2012] [debug] 200 OK (0.002549s, 392.311/s).
+[Sun Oct 21 23:13:54 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:13:54 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:13:54 2012] [debug] aadata
+[Sun Oct 21 23:13:54 2012] [debug] 200 OK (0.004487s, 222.866/s).
+[Sun Oct 21 23:14:01 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:14:01 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:14:01 2012] [debug] aadata
+[Sun Oct 21 23:14:01 2012] [debug] 200 OK (0.002893s, 345.662/s).
+[Sun Oct 21 23:14:08 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:14:08 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:14:08 2012] [debug] aadata
+[Sun Oct 21 23:14:08 2012] [debug] 200 OK (0.004891s, 204.457/s).
+[Sun Oct 21 23:14:11 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:14:11 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:14:11 2012] [debug] aadata
+[Sun Oct 21 23:14:11 2012] [debug] 200 OK (0.002933s, 340.948/s).
+[Sun Oct 21 23:16:51 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:51 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:51 2012] [debug] aadata
+[Sun Oct 21 23:16:51 2012] [debug] 200 OK (0.002812s, 355.619/s).
+[Sun Oct 21 23:16:53 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:53 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:53 2012] [debug] aadata
+[Sun Oct 21 23:16:53 2012] [debug] 200 OK (0.002819s, 354.736/s).
+[Sun Oct 21 23:16:54 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:54 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:54 2012] [debug] aadata
+[Sun Oct 21 23:16:54 2012] [debug] 200 OK (0.002631s, 380.084/s).
+[Sun Oct 21 23:16:55 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:55 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:55 2012] [debug] aadata
+[Sun Oct 21 23:16:55 2012] [debug] 200 OK (0.002580s, 387.597/s).
+[Sun Oct 21 23:16:56 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:56 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:56 2012] [debug] aadata
+[Sun Oct 21 23:16:56 2012] [debug] 200 OK (0.002636s, 379.363/s).
+[Sun Oct 21 23:16:56 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:56 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:56 2012] [debug] aadata
+[Sun Oct 21 23:16:56 2012] [debug] 200 OK (0.002710s, 369.004/s).
+[Sun Oct 21 23:16:57 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:57 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:57 2012] [debug] aadata
+[Sun Oct 21 23:16:57 2012] [debug] 200 OK (0.002967s, 337.041/s).
+[Sun Oct 21 23:16:57 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:57 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:57 2012] [debug] aadata
+[Sun Oct 21 23:16:57 2012] [debug] 200 OK (0.002805s, 356.506/s).
+[Sun Oct 21 23:16:57 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:57 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:57 2012] [debug] aadata
+[Sun Oct 21 23:16:57 2012] [debug] 200 OK (0.002566s, 389.712/s).
+[Sun Oct 21 23:16:58 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:58 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:58 2012] [debug] aadata
+[Sun Oct 21 23:16:58 2012] [debug] 200 OK (0.002675s, 373.832/s).
+[Sun Oct 21 23:16:58 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:58 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:58 2012] [debug] aadata
+[Sun Oct 21 23:16:58 2012] [debug] 200 OK (0.003364s, 297.265/s).
+[Sun Oct 21 23:16:58 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:58 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:58 2012] [debug] aadata
+[Sun Oct 21 23:16:58 2012] [debug] 200 OK (0.002611s, 382.995/s).
+[Sun Oct 21 23:16:58 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:58 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:58 2012] [debug] aadata
+[Sun Oct 21 23:16:58 2012] [debug] 200 OK (0.002958s, 338.066/s).
+[Sun Oct 21 23:16:58 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:58 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:58 2012] [debug] aadata
+[Sun Oct 21 23:16:58 2012] [debug] 200 OK (0.002789s, 358.551/s).
+[Sun Oct 21 23:16:59 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:59 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:59 2012] [debug] aadata
+[Sun Oct 21 23:16:59 2012] [debug] 200 OK (0.003165s, 315.956/s).
+[Sun Oct 21 23:16:59 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:59 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:59 2012] [debug] aadata
+[Sun Oct 21 23:16:59 2012] [debug] 200 OK (0.002589s, 386.250/s).
+[Sun Oct 21 23:16:59 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:59 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:59 2012] [debug] aadata
+[Sun Oct 21 23:16:59 2012] [debug] 200 OK (0.002567s, 389.560/s).
+[Sun Oct 21 23:16:59 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:16:59 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:16:59 2012] [debug] aadata
+[Sun Oct 21 23:16:59 2012] [debug] 200 OK (0.002539s, 393.856/s).
+[Sun Oct 21 23:17:00 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:17:00 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:17:00 2012] [debug] aadata
+[Sun Oct 21 23:17:00 2012] [debug] 200 OK (0.003362s, 297.442/s).
+[Sun Oct 21 23:17:00 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:17:00 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:17:00 2012] [debug] aadata
+[Sun Oct 21 23:17:00 2012] [debug] 200 OK (0.003402s, 293.945/s).
+[Sun Oct 21 23:17:00 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:17:00 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:17:00 2012] [debug] aadata
+[Sun Oct 21 23:17:00 2012] [debug] 200 OK (0.002664s, 375.375/s).
+[Sun Oct 21 23:18:15 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:18:15 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:18:15 2012] [debug] aadata
+[Sun Oct 21 23:18:15 2012] [debug] 200 OK (0.004451s, 224.669/s).
+[Sun Oct 21 23:18:35 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:18:35 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:18:35 2012] [debug] aadata
+[Sun Oct 21 23:18:35 2012] [debug] 200 OK (0.002645s, 378.072/s).
+[Sun Oct 21 23:19:44 2012] [debug] GET /datatables/aadata (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:19:44 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "aadata".
+[Sun Oct 21 23:19:44 2012] [debug] aadata
+[Sun Oct 21 23:19:44 2012] [debug] 200 OK (0.008692s, 115.048/s).
+[Sun Oct 21 23:20:40 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:20:40 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Oct 21 23:20:40 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Oct 21 23:20:40 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:20:40 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:20:40 2012] [debug] 404 Not Found (0.041872s, 23.882/s).
+[Sun Oct 21 23:26:12 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:26:12 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Oct 21 23:26:12 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Oct 21 23:26:12 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:26:12 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:26:12 2012] [debug] 404 Not Found (0.041083s, 24.341/s).
+[Sun Oct 21 23:26:13 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:26:13 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Oct 21 23:26:13 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Oct 21 23:26:13 2012] [debug] Rendering cached inline template.
+[Sun Oct 21 23:26:13 2012] [debug] Rendering cached inline template.
+[Sun Oct 21 23:26:13 2012] [debug] 404 Not Found (0.011688s, 85.558/s).
+[Sun Oct 21 23:26:41 2012] [info] Listening at "http://*:3000".
+[Sun Oct 21 23:26:43 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:26:43 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Oct 21 23:26:43 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Oct 21 23:26:43 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:26:43 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:26:43 2012] [debug] 404 Not Found (0.041523s, 24.083/s).
+[Sun Oct 21 23:26:49 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:26:49 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Oct 21 23:26:49 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Oct 21 23:26:49 2012] [debug] Rendering cached inline template.
+[Sun Oct 21 23:26:49 2012] [debug] Rendering cached inline template.
+[Sun Oct 21 23:26:49 2012] [debug] 404 Not Found (0.011019s, 90.752/s).
+[Sun Oct 21 23:26:51 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:26:51 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Oct 21 23:26:51 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Oct 21 23:26:51 2012] [debug] Rendering cached inline template.
+[Sun Oct 21 23:26:51 2012] [debug] Rendering cached inline template.
+[Sun Oct 21 23:26:51 2012] [debug] 404 Not Found (0.011271s, 88.723/s).
+[Sun Oct 21 23:27:31 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:27:31 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:27:31 2012] [debug] aadata
+[Sun Oct 21 23:27:31 2012] [debug] 200 OK (0.017969s, 55.651/s).
+[Sun Oct 21 23:27:35 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:27:35 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:27:35 2012] [debug] aadata
+[Sun Oct 21 23:27:35 2012] [debug] 200 OK (0.000620s, 1612.903/s).
+[Sun Oct 21 23:27:38 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:27:38 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:27:38 2012] [debug] aadata
+[Sun Oct 21 23:27:38 2012] [debug] 200 OK (0.000738s, 1355.014/s).
+[Sun Oct 21 23:27:56 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:27:56 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:27:56 2012] [debug] aadata
+[Sun Oct 21 23:27:56 2012] [error] Can't use string ("") as a subroutine ref while "strict refs" in use at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 69.
+
+[Sun Oct 21 23:27:56 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:27:56 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:27:56 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:27:56 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:27:56 2012] [debug] 500 Internal Server Error (0.572404s, 1.747/s).
+[Sun Oct 21 23:28:54 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:28:54 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:28:54 2012] [debug] aadata
+[Sun Oct 21 23:28:54 2012] [error] Can't use string ("") as a subroutine ref while "strict refs" in use at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 68.
+
+[Sun Oct 21 23:28:54 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:28:54 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:28:54 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:28:54 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:28:54 2012] [debug] 500 Internal Server Error (0.085495s, 11.697/s).
+[Sun Oct 21 23:30:17 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:30:17 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:30:17 2012] [debug] aadata
+[Sun Oct 21 23:30:17 2012] [error] Can't use string ("") as a subroutine ref while "strict refs" in use at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 73.
+
+[Sun Oct 21 23:30:17 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:30:17 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:30:17 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:30:17 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:30:17 2012] [debug] 500 Internal Server Error (0.085292s, 11.724/s).
+[Sun Oct 21 23:30:50 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:30:50 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:30:50 2012] [debug] aadata
+[Sun Oct 21 23:30:50 2012] [debug] 200 OK (0.098938s, 10.107/s).
+[Sun Oct 21 23:32:52 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:32:52 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:32:52 2012] [debug] aadata
+[Sun Oct 21 23:32:52 2012] [debug] 200 OK (0.146859s, 6.809/s).
+[Sun Oct 21 23:43:01 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:43:01 2012] [error] Illegal declaration of subroutine jQuery::DataTables::sub at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 167.
+Compilation failed in require at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/TestDataTables/Datatables.pm line 7.
+BEGIN failed--compilation aborted at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/TestDataTables/Datatables.pm line 7.
+Compilation failed in require at (eval 2314) line 1.
+
+[Sun Oct 21 23:43:01 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:43:01 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:43:01 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:43:02 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:43:02 2012] [debug] 500 Internal Server Error (0.081205s, 12.315/s).
+[Sun Oct 21 23:43:12 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:43:12 2012] [error] Illegal declaration of subroutine jQuery::DataTables::sub at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 167.
+Compilation failed in require at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/TestDataTables/Datatables.pm line 7.
+BEGIN failed--compilation aborted at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/TestDataTables/Datatables.pm line 7.
+Compilation failed in require at (eval 2347) line 1.
+
+[Sun Oct 21 23:43:12 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:43:12 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:43:12 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:43:12 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:43:12 2012] [debug] 500 Internal Server Error (0.078051s, 12.812/s).
+[Sun Oct 21 23:43:40 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:43:40 2012] [error] syntax error at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/TestDataTables/Datatables.pm line 12, near "new jQuery::DataTables::getTableData"
+Compilation failed in require at (eval 2404) line 1.
+
+[Sun Oct 21 23:43:40 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:43:40 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:43:40 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:43:40 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:43:40 2012] [debug] 500 Internal Server Error (0.084873s, 11.782/s).
+[Sun Oct 21 23:43:59 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:43:59 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:43:59 2012] [debug] aadata
+[Sun Oct 21 23:43:59 2012] [error] Undefined subroutine &:: called at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/TestDataTables/Datatables.pm line 12
+
+[Sun Oct 21 23:43:59 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:43:59 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:43:59 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:43:59 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:43:59 2012] [debug] 500 Internal Server Error (0.089896s, 11.124/s).
+[Sun Oct 21 23:46:54 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:46:54 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:46:54 2012] [debug] aadata
+[Sun Oct 21 23:46:54 2012] [error] Undefined subroutine &:: called at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/TestDataTables/Datatables.pm line 12
+
+[Sun Oct 21 23:46:54 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:46:54 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:46:54 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:46:54 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:46:54 2012] [debug] 500 Internal Server Error (0.080677s, 12.395/s).
+[Sun Oct 21 23:47:24 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:47:24 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:47:24 2012] [debug] aadata
+[Sun Oct 21 23:47:24 2012] [error] Undefined first (CGI) parameter at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 11.
+
+[Sun Oct 21 23:47:24 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:47:24 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:47:24 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:47:24 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:47:24 2012] [debug] 500 Internal Server Error (0.078456s, 12.746/s).
+[Sun Oct 21 23:48:31 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:48:31 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:48:31 2012] [debug] aadata
+[Sun Oct 21 23:48:31 2012] [error] Undefined (cgi) parameter at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 13.
+
+[Sun Oct 21 23:48:31 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:48:31 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:48:31 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:48:31 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:48:31 2012] [debug] 500 Internal Server Error (0.178788s, 5.593/s).
+[Sun Oct 21 23:49:12 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:49:12 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:49:12 2012] [debug] aadata
+[Sun Oct 21 23:49:13 2012] [error] Undefined (cgi) parameter at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 13.
+
+[Sun Oct 21 23:49:13 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:49:13 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:49:13 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:49:13 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:49:13 2012] [debug] 500 Internal Server Error (0.698182s, 1.432/s).
+[Sun Oct 21 23:49:44 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:49:44 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:49:44 2012] [debug] aadata
+[Sun Oct 21 23:49:44 2012] [error] Can't call method "dbh" on unblessed reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 13.
+
+[Sun Oct 21 23:49:44 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:49:44 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:49:44 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:49:44 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:49:44 2012] [debug] 500 Internal Server Error (0.154683s, 6.465/s).
+[Sun Oct 21 23:50:03 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:50:03 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:50:03 2012] [debug] aadata
+[Sun Oct 21 23:50:03 2012] [error] Undefined (cgi) parameter at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 14.
+
+[Sun Oct 21 23:50:03 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:50:03 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:50:03 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:50:03 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:50:03 2012] [debug] 500 Internal Server Error (0.189955s, 5.264/s).
+[Sun Oct 21 23:50:25 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:50:25 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:50:25 2012] [debug] aadata
+[Sun Oct 21 23:50:25 2012] [error] Undefined (cgi) parameter at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 14.
+
+[Sun Oct 21 23:50:25 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:50:25 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:50:25 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:50:25 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:50:25 2012] [debug] 500 Internal Server Error (0.165853s, 6.029/s).
+[Sun Oct 21 23:51:23 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:51:23 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:51:23 2012] [debug] aadata
+[Sun Oct 21 23:51:24 2012] [error] Undefined (cgi->param) parameter at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 15.
+
+[Sun Oct 21 23:51:24 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:51:24 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:51:24 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:51:24 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:51:24 2012] [debug] 500 Internal Server Error (0.169076s, 5.914/s).
+[Sun Oct 21 23:51:58 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:51:58 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:51:58 2012] [debug] aadata
+[Sun Oct 21 23:51:58 2012] [debug] 200 OK (0.227996s, 4.386/s).
+[Sun Oct 21 23:52:06 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:52:06 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:52:06 2012] [debug] aadata
+[Sun Oct 21 23:52:06 2012] [debug] 200 OK (0.120758s, 8.281/s).
+[Sun Oct 21 23:52:25 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:52:25 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:52:25 2012] [debug] aadata
+[Sun Oct 21 23:52:25 2012] [error] Undefined (cgi->param) parameter at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 15.
+
+[Sun Oct 21 23:52:25 2012] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 21 23:52:25 2012] [debug] Template "exception.html.ep" not found.
+[Sun Oct 21 23:52:25 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:52:25 2012] [debug] Rendering inline template.
+[Sun Oct 21 23:52:25 2012] [debug] 500 Internal Server Error (0.090647s, 11.032/s).
+[Sun Oct 21 23:52:46 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:52:46 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:52:46 2012] [debug] aadata
+[Sun Oct 21 23:52:46 2012] [debug] 200 OK (0.075915s, 13.173/s).
+[Sun Oct 21 23:52:50 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:52:50 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:52:50 2012] [debug] aadata
+[Sun Oct 21 23:52:50 2012] [debug] 200 OK (0.008953s, 111.694/s).
+[Sun Oct 21 23:52:53 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:52:53 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:52:53 2012] [debug] aadata
+[Sun Oct 21 23:52:53 2012] [debug] 200 OK (0.008330s, 120.048/s).
+[Sun Oct 21 23:53:59 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:53:59 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:53:59 2012] [debug] 200 OK (0.208245s, 4.802/s).
+[Sun Oct 21 23:54:00 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:54:00 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:54:00 2012] [debug] 200 OK (0.119845s, 8.344/s).
+[Sun Oct 21 23:54:15 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:54:15 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:54:15 2012] [debug] 200 OK (0.117769s, 8.491/s).
+[Sun Oct 21 23:54:15 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:54:15 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:54:15 2012] [debug] 200 OK (0.147076s, 6.799/s).
+[Sun Oct 21 23:54:15 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:54:15 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:54:16 2012] [debug] 200 OK (0.104630s, 9.557/s).
+[Sun Oct 21 23:54:18 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:54:18 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:54:18 2012] [debug] 200 OK (0.118259s, 8.456/s).
+[Sun Oct 21 23:54:22 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:54:22 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:54:22 2012] [debug] 200 OK (0.112373s, 8.899/s).
+[Sun Oct 21 23:54:26 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:54:26 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:54:26 2012] [debug] 200 OK (0.122727s, 8.148/s).
+[Sun Oct 21 23:54:26 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:54:26 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:54:26 2012] [debug] 200 OK (0.108185s, 9.243/s).
+[Sun Oct 21 23:54:31 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:54:31 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:54:31 2012] [debug] 200 OK (0.126183s, 7.925/s).
+[Sun Oct 21 23:54:31 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:54:31 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:54:31 2012] [debug] 200 OK (0.113959s, 8.775/s).
+[Sun Oct 21 23:54:34 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:54:34 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:54:34 2012] [debug] 200 OK (0.116217s, 8.605/s).
+[Sun Oct 21 23:54:34 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:54:34 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:54:34 2012] [debug] 200 OK (0.112338s, 8.902/s).
+[Sun Oct 21 23:54:39 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:54:39 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:54:39 2012] [debug] 200 OK (0.112450s, 8.893/s).
+[Sun Oct 21 23:56:17 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:56:17 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:56:17 2012] [debug] 200 OK (0.119283s, 8.383/s).
+[Sun Oct 21 23:56:20 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:56:20 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:56:20 2012] [debug] 200 OK (0.083692s, 11.949/s).
+[Sun Oct 21 23:56:49 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:56:49 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:56:49 2012] [debug] 200 OK (0.082611s, 12.105/s).
+[Sun Oct 21 23:56:51 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:56:51 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:56:51 2012] [debug] 200 OK (0.088406s, 11.311/s).
+[Sun Oct 21 23:56:54 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:56:54 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:56:54 2012] [debug] 200 OK (0.098177s, 10.186/s).
+[Sun Oct 21 23:57:06 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:57:06 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:57:06 2012] [debug] 200 OK (0.092036s, 10.865/s).
+[Sun Oct 21 23:57:23 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:57:23 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:57:23 2012] [debug] 200 OK (0.092991s, 10.754/s).
+[Sun Oct 21 23:57:26 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Sun Oct 21 23:57:26 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sun Oct 21 23:57:26 2012] [debug] 200 OK (0.085565s, 11.687/s).
+[Mon Oct 22 00:58:49 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 00:58:49 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 00:58:49 2012] [debug] 200 OK (0.074043s, 13.506/s).
+[Mon Oct 22 00:58:52 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 00:58:52 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 00:58:53 2012] [debug] 200 OK (0.085128s, 11.747/s).
+[Mon Oct 22 01:02:10 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:02:10 2012] [error] Global symbol "$iDisplayLength" requires explicit package name at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 178.
+Global symbol "$iDisplayStart" requires explicit package name at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 179.
+Global symbol "$iSortCol_0" requires explicit package name at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 185.
+Global symbol "$aColumns" requires explicit package name at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 195.
+Global symbol "$aColumns" requires explicit package name at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 204.
+Compilation failed in require at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/TestDataTables/Datatables.pm line 7.
+BEGIN failed--compilation aborted at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/TestDataTables/Datatables.pm line 7.
+Compilation failed in require at (eval 12073) line 1.
+
+[Mon Oct 22 01:02:10 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:02:10 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:02:10 2012] [debug] Rendering inline template.
+[Mon Oct 22 01:02:10 2012] [debug] Rendering inline template.
+[Mon Oct 22 01:02:10 2012] [debug] 500 Internal Server Error (0.080107s, 12.483/s).
+[Mon Oct 22 01:02:11 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:02:11 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:02:11 2012] [debug] Action not found in controller.
+[Mon Oct 22 01:02:11 2012] [debug] Template "datatables/table.html.ep" not found.
+[Mon Oct 22 01:02:11 2012] [debug] Template "not_found.development.html.ep" not found.
+[Mon Oct 22 01:02:11 2012] [debug] Template "not_found.html.ep" not found.
+[Mon Oct 22 01:02:11 2012] [debug] Rendering inline template.
+[Mon Oct 22 01:02:11 2012] [debug] Rendering inline template.
+[Mon Oct 22 01:02:11 2012] [debug] 404 Not Found (0.041522s, 24.084/s).
+[Mon Oct 22 01:02:13 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:02:13 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:02:13 2012] [debug] Action not found in controller.
+[Mon Oct 22 01:02:13 2012] [debug] Template "datatables/table.html.ep" not found.
+[Mon Oct 22 01:02:13 2012] [debug] Template "not_found.development.html.ep" not found.
+[Mon Oct 22 01:02:13 2012] [debug] Template "not_found.html.ep" not found.
+[Mon Oct 22 01:02:13 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:02:13 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:02:13 2012] [debug] 404 Not Found (0.012128s, 82.454/s).
+[Mon Oct 22 01:02:13 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:02:13 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:02:13 2012] [debug] Action not found in controller.
+[Mon Oct 22 01:02:13 2012] [debug] Template "datatables/table.html.ep" not found.
+[Mon Oct 22 01:02:13 2012] [debug] Template "not_found.development.html.ep" not found.
+[Mon Oct 22 01:02:13 2012] [debug] Template "not_found.html.ep" not found.
+[Mon Oct 22 01:02:13 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:02:13 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:02:13 2012] [debug] 404 Not Found (0.013940s, 71.736/s).
+[Mon Oct 22 01:02:15 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:02:15 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:02:15 2012] [debug] Action not found in controller.
+[Mon Oct 22 01:02:15 2012] [debug] Template "datatables/table.html.ep" not found.
+[Mon Oct 22 01:02:15 2012] [debug] Template "not_found.development.html.ep" not found.
+[Mon Oct 22 01:02:15 2012] [debug] Template "not_found.html.ep" not found.
+[Mon Oct 22 01:02:15 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:02:15 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:02:15 2012] [debug] 404 Not Found (0.013005s, 76.894/s).
+[Mon Oct 22 01:02:22 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:02:22 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:02:22 2012] [debug] Action not found in controller.
+[Mon Oct 22 01:02:22 2012] [debug] Template "datatables/table.html.ep" not found.
+[Mon Oct 22 01:02:22 2012] [debug] Template "not_found.development.html.ep" not found.
+[Mon Oct 22 01:02:22 2012] [debug] Template "not_found.html.ep" not found.
+[Mon Oct 22 01:02:22 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:02:22 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:02:22 2012] [debug] 404 Not Found (0.012639s, 79.120/s).
+[Mon Oct 22 01:02:23 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:02:23 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:02:23 2012] [debug] Action not found in controller.
+[Mon Oct 22 01:02:23 2012] [debug] Template "datatables/table.html.ep" not found.
+[Mon Oct 22 01:02:23 2012] [debug] Template "not_found.development.html.ep" not found.
+[Mon Oct 22 01:02:23 2012] [debug] Template "not_found.html.ep" not found.
+[Mon Oct 22 01:02:23 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:02:23 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:02:23 2012] [debug] 404 Not Found (0.012422s, 80.502/s).
+[Mon Oct 22 01:02:46 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:02:46 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:02:46 2012] [debug] 200 OK (0.130103s, 7.686/s).
+[Mon Oct 22 01:02:52 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:02:52 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:02:52 2012] [debug] 200 OK (0.083100s, 12.034/s).
+[Mon Oct 22 01:02:53 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:02:53 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:02:53 2012] [debug] 200 OK (0.075066s, 13.322/s).
+[Mon Oct 22 01:02:53 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:02:53 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:02:54 2012] [debug] 200 OK (0.084781s, 11.795/s).
+[Mon Oct 22 01:02:56 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:02:56 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:02:57 2012] [debug] 200 OK (0.081824s, 12.221/s).
+[Mon Oct 22 01:03:01 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:03:01 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:03:01 2012] [debug] 200 OK (0.090004s, 11.111/s).
+[Mon Oct 22 01:03:02 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:03:02 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:03:02 2012] [debug] 200 OK (0.090363s, 11.066/s).
+[Mon Oct 22 01:03:05 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:03:05 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:03:05 2012] [debug] 200 OK (0.085840s, 11.650/s).
+[Mon Oct 22 01:03:06 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:03:06 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:03:06 2012] [debug] 200 OK (0.088282s, 11.327/s).
+[Mon Oct 22 01:03:07 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:03:07 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:03:07 2012] [debug] 200 OK (0.086497s, 11.561/s).
+[Mon Oct 22 01:03:15 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:03:15 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:03:15 2012] [debug] 200 OK (0.085799s, 11.655/s).
+[Mon Oct 22 01:03:22 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:03:22 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:03:23 2012] [debug] 200 OK (0.081171s, 12.320/s).
+[Mon Oct 22 01:03:25 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:03:25 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:03:25 2012] [debug] 200 OK (0.084427s, 11.845/s).
+[Mon Oct 22 01:13:21 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:13:21 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:13:22 2012] [debug] 200 OK (0.159021s, 6.288/s).
+[Mon Oct 22 01:13:25 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:13:25 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:13:25 2012] [debug] 200 OK (0.088812s, 11.260/s).
+[Mon Oct 22 01:13:30 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:13:30 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:13:30 2012] [debug] 200 OK (0.083963s, 11.910/s).
+[Mon Oct 22 01:13:30 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:13:30 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:13:30 2012] [debug] 200 OK (0.083171s, 12.023/s).
+[Mon Oct 22 01:23:02 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:23:02 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:23:02 2012] [debug] 200 OK (0.092208s, 10.845/s).
+[Mon Oct 22 01:24:42 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:24:42 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:24:42 2012] [debug] 200 OK (0.191695s, 5.217/s).
+[Mon Oct 22 01:24:51 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:24:51 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:24:51 2012] [debug] 200 OK (0.083416s, 11.988/s).
+[Mon Oct 22 01:24:53 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:24:53 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:24:53 2012] [debug] 200 OK (0.073989s, 13.516/s).
+[Mon Oct 22 01:24:54 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:24:54 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:24:54 2012] [debug] 200 OK (0.073048s, 13.690/s).
+[Mon Oct 22 01:25:31 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:25:31 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:25:31 2012] [debug] 200 OK (0.008023s, 124.642/s).
+[Mon Oct 22 01:25:33 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:25:33 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:25:33 2012] [debug] 200 OK (0.008208s, 121.832/s).
+[Mon Oct 22 01:25:33 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:25:33 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:25:33 2012] [debug] 200 OK (0.008984s, 111.309/s).
+[Mon Oct 22 01:25:33 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:25:33 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:25:33 2012] [debug] 200 OK (0.009694s, 103.157/s).
+[Mon Oct 22 01:25:34 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:25:34 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:25:34 2012] [debug] 200 OK (0.007750s, 129.032/s).
+[Mon Oct 22 01:25:34 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:25:34 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:25:34 2012] [debug] 200 OK (0.007804s, 128.139/s).
+[Mon Oct 22 01:25:40 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:25:40 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:25:40 2012] [debug] 200 OK (0.083546s, 11.969/s).
+[Mon Oct 22 01:25:40 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:25:40 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:25:40 2012] [debug] 200 OK (0.079344s, 12.603/s).
+[Mon Oct 22 01:25:41 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:25:41 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:25:41 2012] [debug] 200 OK (0.076750s, 13.029/s).
+[Mon Oct 22 01:25:44 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:25:44 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:25:44 2012] [debug] 200 OK (0.075426s, 13.258/s).
+[Mon Oct 22 01:25:44 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:25:44 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:25:44 2012] [debug] 200 OK (0.075100s, 13.316/s).
+[Mon Oct 22 01:25:44 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:25:44 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:25:44 2012] [debug] 200 OK (0.075611s, 13.226/s).
+[Mon Oct 22 01:26:03 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:26:03 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:26:03 2012] [debug] 200 OK (0.077914s, 12.835/s).
+[Mon Oct 22 01:26:03 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:26:03 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:26:03 2012] [debug] 200 OK (0.078385s, 12.758/s).
+[Mon Oct 22 01:26:03 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:26:03 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:26:03 2012] [debug] 200 OK (0.077790s, 12.855/s).
+[Mon Oct 22 01:26:24 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:26:24 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:26:24 2012] [debug] 200 OK (0.075027s, 13.329/s).
+[Mon Oct 22 01:26:28 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:26:28 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:26:28 2012] [debug] 200 OK (0.078922s, 12.671/s).
+[Mon Oct 22 01:30:21 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:30:21 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:30:21 2012] [debug] 200 OK (0.146290s, 6.836/s).
+[Mon Oct 22 01:30:22 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:30:22 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:30:22 2012] [debug] 200 OK (0.074197s, 13.478/s).
+[Mon Oct 22 01:30:24 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:30:24 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:30:24 2012] [debug] 200 OK (0.073797s, 13.551/s).
+[Mon Oct 22 01:30:24 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:30:24 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:30:24 2012] [debug] 200 OK (0.072414s, 13.809/s).
+[Mon Oct 22 01:30:30 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:30:30 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:30:30 2012] [debug] 200 OK (0.074814s, 13.366/s).
+[Mon Oct 22 01:30:31 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:30:31 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:30:31 2012] [debug] 200 OK (0.075904s, 13.175/s).
+[Mon Oct 22 01:30:31 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:30:31 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:30:31 2012] [debug] 200 OK (0.074768s, 13.375/s).
+[Mon Oct 22 01:30:32 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:30:32 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:30:32 2012] [debug] 200 OK (0.076936s, 12.998/s).
+[Mon Oct 22 01:30:36 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:30:36 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:30:37 2012] [debug] 200 OK (0.155441s, 6.433/s).
+[Mon Oct 22 01:31:15 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:31:15 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:31:15 2012] [debug] 200 OK (0.009835s, 101.678/s).
+[Mon Oct 22 01:31:15 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:31:15 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:31:15 2012] [debug] 200 OK (0.008517s, 117.412/s).
+[Mon Oct 22 01:51:30 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:51:30 2012] [error] Global symbol "$abSearchable" requires explicit package name at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 245.
+Global symbol "$r" requires explicit package name at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 246.
+Global symbol "$r" requires explicit package name at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 247.
+Global symbol "@where" requires explicit package name at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 249.
+Global symbol "$columns" requires explicit package name at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 249.
+Unmatched right curly bracket at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 276, at end of line
+syntax error at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 276, near "}"
+Compilation failed in require at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/TestDataTables/Datatables.pm line 7.
+BEGIN failed--compilation aborted at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/TestDataTables/Datatables.pm line 7.
+Compilation failed in require at (eval 18160) line 1.
+
+[Mon Oct 22 01:51:30 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:51:30 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:51:30 2012] [debug] Rendering inline template.
+[Mon Oct 22 01:51:30 2012] [debug] Rendering inline template.
+[Mon Oct 22 01:51:30 2012] [debug] 500 Internal Server Error (0.098387s, 10.164/s).
+[Mon Oct 22 01:59:29 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:29 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:29 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:29 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:29 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:29 2012] [debug] Rendering inline template.
+[Mon Oct 22 01:59:29 2012] [debug] Rendering inline template.
+[Mon Oct 22 01:59:29 2012] [debug] 500 Internal Server Error (0.199326s, 5.017/s).
+[Mon Oct 22 01:59:38 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:38 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:39 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:39 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:39 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:39 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:39 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:39 2012] [debug] 500 Internal Server Error (0.106305s, 9.407/s).
+[Mon Oct 22 01:59:43 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:43 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:43 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:43 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:43 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:43 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:43 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:43 2012] [debug] 500 Internal Server Error (0.108401s, 9.225/s).
+[Mon Oct 22 01:59:43 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:43 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:43 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:43 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:43 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:43 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:43 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:43 2012] [debug] 500 Internal Server Error (0.103960s, 9.619/s).
+[Mon Oct 22 01:59:44 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:44 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:44 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:44 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:44 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:44 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:44 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:44 2012] [debug] 500 Internal Server Error (0.101571s, 9.845/s).
+[Mon Oct 22 01:59:45 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:45 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:45 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:45 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:45 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:45 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:45 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:45 2012] [debug] 500 Internal Server Error (0.101182s, 9.883/s).
+[Mon Oct 22 01:59:45 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:45 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:45 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:45 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:45 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:45 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:45 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:45 2012] [debug] 500 Internal Server Error (0.096322s, 10.382/s).
+[Mon Oct 22 01:59:46 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:46 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:46 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:46 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:46 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:46 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:46 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:46 2012] [debug] 500 Internal Server Error (0.101836s, 9.820/s).
+[Mon Oct 22 01:59:47 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:47 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:47 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:47 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:47 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:47 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:47 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:47 2012] [debug] 500 Internal Server Error (0.106404s, 9.398/s).
+[Mon Oct 22 01:59:47 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:47 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:47 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:47 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:47 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:47 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:47 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:47 2012] [debug] 500 Internal Server Error (0.097000s, 10.309/s).
+[Mon Oct 22 01:59:48 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:48 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:48 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:48 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:48 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:48 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:48 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:48 2012] [debug] 500 Internal Server Error (0.105571s, 9.472/s).
+[Mon Oct 22 01:59:53 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:53 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:53 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:53 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:53 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:53 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:53 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:53 2012] [debug] 500 Internal Server Error (0.105292s, 9.497/s).
+[Mon Oct 22 01:59:54 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:54 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:54 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:54 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:54 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:54 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:54 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:54 2012] [debug] 500 Internal Server Error (0.101129s, 9.888/s).
+[Mon Oct 22 01:59:54 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:54 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:55 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:55 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:55 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:55 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:55 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:55 2012] [debug] 500 Internal Server Error (0.111972s, 8.931/s).
+[Mon Oct 22 01:59:55 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:55 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:55 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:55 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:55 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:55 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:55 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:55 2012] [debug] 500 Internal Server Error (0.091632s, 10.913/s).
+[Mon Oct 22 01:59:58 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:58 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:58 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:58 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:58 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:58 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:58 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:58 2012] [debug] 500 Internal Server Error (0.102486s, 9.757/s).
+[Mon Oct 22 01:59:58 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 01:59:58 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 01:59:58 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 01:59:58 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 01:59:58 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 01:59:58 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:58 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 01:59:58 2012] [debug] 500 Internal Server Error (0.095817s, 10.437/s).
+[Mon Oct 22 02:00:05 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:05 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:05 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:05 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:05 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:05 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:05 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:05 2012] [debug] 500 Internal Server Error (0.112019s, 8.927/s).
+[Mon Oct 22 02:00:10 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:10 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:10 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:10 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:10 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:10 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:10 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:10 2012] [debug] 500 Internal Server Error (0.101775s, 9.826/s).
+[Mon Oct 22 02:00:13 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:13 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:13 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:13 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:13 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:13 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:13 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:13 2012] [debug] 500 Internal Server Error (0.108461s, 9.220/s).
+[Mon Oct 22 02:00:15 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:15 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:15 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:15 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:15 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:15 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:15 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:15 2012] [debug] 500 Internal Server Error (0.126840s, 7.884/s).
+[Mon Oct 22 02:00:18 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:18 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:18 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:18 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:18 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:18 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:18 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:18 2012] [debug] 500 Internal Server Error (0.109363s, 9.144/s).
+[Mon Oct 22 02:00:19 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:19 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:19 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:19 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:19 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:19 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:19 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:19 2012] [debug] 500 Internal Server Error (0.104395s, 9.579/s).
+[Mon Oct 22 02:00:21 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:21 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:21 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:21 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:21 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:21 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:21 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:21 2012] [debug] 500 Internal Server Error (0.112174s, 8.915/s).
+[Mon Oct 22 02:00:27 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:27 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:27 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:27 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:27 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:27 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:27 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:27 2012] [debug] 500 Internal Server Error (0.098295s, 10.173/s).
+[Mon Oct 22 02:00:29 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:29 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:29 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:29 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:29 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:29 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:29 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:29 2012] [debug] 500 Internal Server Error (0.106874s, 9.357/s).
+[Mon Oct 22 02:00:33 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:33 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:33 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:33 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:33 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:33 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:33 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:33 2012] [debug] 500 Internal Server Error (0.101659s, 9.837/s).
+[Mon Oct 22 02:00:35 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:35 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:35 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:35 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:35 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:35 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:35 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:35 2012] [debug] 500 Internal Server Error (0.101611s, 9.841/s).
+[Mon Oct 22 02:00:39 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:39 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:39 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:39 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:39 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:39 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:39 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:39 2012] [debug] 500 Internal Server Error (0.106689s, 9.373/s).
+[Mon Oct 22 02:00:47 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:47 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:47 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:47 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:47 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:47 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:47 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:47 2012] [debug] 500 Internal Server Error (0.107404s, 9.311/s).
+[Mon Oct 22 02:00:48 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:48 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:48 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:48 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:48 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:48 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:48 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:48 2012] [debug] 500 Internal Server Error (0.134535s, 7.433/s).
+[Mon Oct 22 02:00:49 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:49 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:49 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:49 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:49 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:49 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:49 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:49 2012] [debug] 500 Internal Server Error (0.125396s, 7.975/s).
+[Mon Oct 22 02:00:52 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:52 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:52 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:52 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:52 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:52 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:52 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:52 2012] [debug] 500 Internal Server Error (0.095499s, 10.471/s).
+[Mon Oct 22 02:00:53 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:00:53 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:00:53 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:00:53 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:00:53 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:00:53 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:53 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:00:53 2012] [debug] 500 Internal Server Error (0.110330s, 9.064/s).
+[Mon Oct 22 02:01:42 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:01:42 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:01:42 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:01:42 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:01:42 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:01:42 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:01:42 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:01:42 2012] [debug] 500 Internal Server Error (0.113718s, 8.794/s).
+[Mon Oct 22 02:01:43 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:01:43 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:01:43 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:01:43 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:01:43 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:01:43 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:01:43 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:01:43 2012] [debug] 500 Internal Server Error (0.106844s, 9.359/s).
+[Mon Oct 22 02:01:44 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:01:44 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:01:44 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:01:44 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:01:44 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:01:44 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:01:44 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:01:44 2012] [debug] 500 Internal Server Error (0.104324s, 9.586/s).
+[Mon Oct 22 02:01:44 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:01:44 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:01:44 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:01:44 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:01:44 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:01:44 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:01:44 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:01:44 2012] [debug] 500 Internal Server Error (0.094488s, 10.583/s).
+[Mon Oct 22 02:01:45 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:01:45 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:01:45 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:01:45 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:01:45 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:01:45 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:01:45 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:01:45 2012] [debug] 500 Internal Server Error (0.105057s, 9.519/s).
+[Mon Oct 22 02:02:05 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:02:05 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:02:05 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 254.
+
+[Mon Oct 22 02:02:05 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:02:05 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:02:05 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:02:06 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:02:06 2012] [debug] 500 Internal Server Error (0.113469s, 8.813/s).
+[Mon Oct 22 02:02:14 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:02:14 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:02:14 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 254.
+
+[Mon Oct 22 02:02:14 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:02:14 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:02:14 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:02:14 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:02:14 2012] [debug] 500 Internal Server Error (0.142547s, 7.015/s).
+[Mon Oct 22 02:02:16 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:02:16 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:02:16 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 254.
+
+[Mon Oct 22 02:02:16 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:02:16 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:02:16 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:02:16 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:02:16 2012] [debug] 500 Internal Server Error (0.112915s, 8.856/s).
+[Mon Oct 22 02:02:18 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:02:18 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:02:18 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 254.
+
+[Mon Oct 22 02:02:18 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:02:18 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:02:18 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:02:18 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:02:18 2012] [debug] 500 Internal Server Error (0.094490s, 10.583/s).
+[Mon Oct 22 02:02:21 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:02:21 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:02:21 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 254.
+
+[Mon Oct 22 02:02:21 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:02:21 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:02:21 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:02:21 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:02:21 2012] [debug] 500 Internal Server Error (0.132643s, 7.539/s).
+[Mon Oct 22 02:20:14 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:20:14 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:20:14 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:20:14 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:20:14 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:20:14 2012] [debug] Rendering inline template.
+[Mon Oct 22 02:20:14 2012] [debug] Rendering inline template.
+[Mon Oct 22 02:20:14 2012] [debug] 500 Internal Server Error (0.216969s, 4.609/s).
+[Mon Oct 22 02:22:06 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:22:06 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:22:06 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 254.
+
+[Mon Oct 22 02:22:06 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:22:06 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:22:06 2012] [debug] Rendering inline template.
+[Mon Oct 22 02:22:06 2012] [debug] Rendering inline template.
+[Mon Oct 22 02:22:06 2012] [debug] 500 Internal Server Error (0.224616s, 4.452/s).
+[Mon Oct 22 02:22:12 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:22:12 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:22:12 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:22:12 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:22:12 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:22:12 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:22:12 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:22:12 2012] [debug] 500 Internal Server Error (0.102107s, 9.794/s).
+[Mon Oct 22 02:22:13 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:22:13 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:22:14 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 254.
+
+[Mon Oct 22 02:22:14 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:22:14 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:22:14 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:22:14 2012] [debug] Rendering cached inline template.
+[Mon Oct 22 02:22:14 2012] [debug] 500 Internal Server Error (0.110617s, 9.040/s).
+[Mon Oct 22 02:23:03 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:23:03 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:23:03 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 235.
+
+[Mon Oct 22 02:23:03 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:23:03 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:23:03 2012] [debug] Rendering inline template.
+[Mon Oct 22 02:23:03 2012] [debug] Rendering inline template.
+[Mon Oct 22 02:23:03 2012] [debug] 500 Internal Server Error (0.206672s, 4.839/s).
+[Mon Oct 22 02:25:19 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:25:19 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:25:19 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 276.
+
+[Mon Oct 22 02:25:19 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:25:19 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:25:19 2012] [debug] Rendering inline template.
+[Mon Oct 22 02:25:19 2012] [debug] Rendering inline template.
+[Mon Oct 22 02:25:19 2012] [debug] 500 Internal Server Error (0.255756s, 3.910/s).
+[Mon Oct 22 02:25:58 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:25:58 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:25:58 2012] [error] Not a HASH reference at D:/Git/jquery-datatables-perl/perl/test_data_tables/script/../lib/jQuery/DataTables.pm line 276.
+
+[Mon Oct 22 02:25:58 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:25:58 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:25:58 2012] [debug] Rendering inline template.
+[Mon Oct 22 02:25:58 2012] [debug] Rendering inline template.
+[Mon Oct 22 02:25:58 2012] [debug] 500 Internal Server Error (0.251884s, 3.970/s).
+[Mon Oct 22 02:26:27 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:26:27 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:26:28 2012] [error] Undefined subroutine &TestDataTables::Datatables::ddx called at C:/Perl/site/bin/../lib/Mojolicious/Routes.pm line 142
+
+[Mon Oct 22 02:26:28 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Oct 22 02:26:28 2012] [debug] Template "exception.html.ep" not found.
+[Mon Oct 22 02:26:28 2012] [debug] Rendering inline template.
+[Mon Oct 22 02:26:28 2012] [debug] Rendering inline template.
+[Mon Oct 22 02:26:28 2012] [debug] 500 Internal Server Error (0.232453s, 4.302/s).
+[Mon Oct 22 02:26:53 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:26:53 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:26:53 2012] [debug] 200 OK (0.177357s, 5.638/s).
+[Mon Oct 22 02:27:03 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:27:03 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:27:04 2012] [debug] 200 OK (0.136954s, 7.302/s).
+[Mon Oct 22 02:27:04 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:27:04 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:27:04 2012] [debug] 200 OK (0.147037s, 6.801/s).
+[Mon Oct 22 02:27:05 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:27:05 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:27:05 2012] [debug] 200 OK (0.136044s, 7.351/s).
+[Mon Oct 22 02:27:44 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:27:44 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:27:44 2012] [debug] 200 OK (0.184093s, 5.432/s).
+[Mon Oct 22 02:29:40 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:29:40 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:29:41 2012] [debug] 200 OK (0.231347s, 4.323/s).
+[Mon Oct 22 02:30:21 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:30:21 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:30:22 2012] [debug] 200 OK (0.242084s, 4.131/s).
+[Mon Oct 22 02:30:37 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:30:37 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:30:37 2012] [debug] 200 OK (0.324043s, 3.086/s).
+[Mon Oct 22 02:30:37 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:30:37 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:30:37 2012] [debug] 200 OK (0.167951s, 5.954/s).
+[Mon Oct 22 02:31:32 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:31:32 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:31:33 2012] [debug] 200 OK (0.397236s, 2.517/s).
+[Mon Oct 22 02:32:18 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:32:18 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:32:19 2012] [debug] 200 OK (0.379185s, 2.637/s).
+[Mon Oct 22 02:32:29 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:32:29 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:32:29 2012] [debug] 200 OK (0.179613s, 5.568/s).
+[Mon Oct 22 02:32:47 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:32:47 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:32:47 2012] [debug] 200 OK (0.184460s, 5.421/s).
+[Mon Oct 22 02:33:57 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:33:57 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:33:57 2012] [debug] 200 OK (0.276753s, 3.613/s).
+[Mon Oct 22 02:34:03 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:34:03 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:34:03 2012] [debug] 200 OK (0.189163s, 5.286/s).
+[Mon Oct 22 02:34:48 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:34:48 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:34:48 2012] [debug] 200 OK (0.094020s, 10.636/s).
+[Mon Oct 22 02:34:49 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:34:49 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:34:49 2012] [debug] 200 OK (0.024084s, 41.521/s).
+[Mon Oct 22 02:34:52 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:34:52 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:34:52 2012] [debug] 200 OK (0.024197s, 41.327/s).
+[Mon Oct 22 02:34:55 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:34:55 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:34:55 2012] [debug] 200 OK (0.026910s, 37.161/s).
+[Mon Oct 22 02:35:01 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:35:01 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:35:01 2012] [debug] 200 OK (0.021195s, 47.181/s).
+[Mon Oct 22 02:35:04 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:35:04 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:35:04 2012] [debug] 200 OK (0.019083s, 52.403/s).
+[Mon Oct 22 02:35:36 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:35:36 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:35:36 2012] [debug] 200 OK (0.189340s, 5.282/s).
+[Mon Oct 22 02:35:37 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:35:37 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:35:37 2012] [debug] 200 OK (0.095830s, 10.435/s).
+[Mon Oct 22 02:35:38 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:35:38 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:35:39 2012] [debug] 200 OK (0.186565s, 5.360/s).
+[Mon Oct 22 02:35:39 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:35:39 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:35:39 2012] [debug] 200 OK (0.127128s, 7.866/s).
+[Mon Oct 22 02:35:40 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:35:40 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:35:40 2012] [debug] 200 OK (0.192892s, 5.184/s).
+[Mon Oct 22 02:35:41 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:35:41 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:35:41 2012] [debug] 200 OK (0.102453s, 9.761/s).
+[Mon Oct 22 02:35:42 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:35:42 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:35:42 2012] [debug] 200 OK (0.195254s, 5.122/s).
+[Mon Oct 22 02:35:51 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:35:51 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:35:51 2012] [debug] 200 OK (0.176335s, 5.671/s).
+[Mon Oct 22 02:35:59 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:35:59 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:35:59 2012] [debug] 200 OK (0.178508s, 5.602/s).
+[Mon Oct 22 02:36:00 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:36:00 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:36:01 2012] [debug] 200 OK (0.201744s, 4.957/s).
+[Mon Oct 22 02:36:03 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:36:03 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:36:03 2012] [debug] 200 OK (0.203163s, 4.922/s).
+[Mon Oct 22 02:36:05 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:36:05 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:36:05 2012] [debug] 200 OK (0.201956s, 4.952/s).
+[Mon Oct 22 02:37:41 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:37:41 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:37:41 2012] [debug] 200 OK (0.095250s, 10.499/s).
+[Mon Oct 22 02:37:42 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:37:42 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:37:42 2012] [debug] 200 OK (0.031340s, 31.908/s).
+[Mon Oct 22 02:37:43 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:37:43 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:37:43 2012] [debug] 200 OK (0.033199s, 30.121/s).
+[Mon Oct 22 02:37:44 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:37:44 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:37:44 2012] [debug] 200 OK (0.031938s, 31.311/s).
+[Mon Oct 22 02:37:45 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:37:45 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:37:45 2012] [debug] 200 OK (0.031284s, 31.965/s).
+[Mon Oct 22 02:37:46 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:37:46 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:37:46 2012] [debug] 200 OK (0.029115s, 34.347/s).
+[Mon Oct 22 02:37:47 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:37:47 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:37:47 2012] [debug] 200 OK (0.029451s, 33.955/s).
+[Mon Oct 22 02:37:48 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:37:48 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:37:48 2012] [debug] 200 OK (0.035683s, 28.025/s).
+[Mon Oct 22 02:37:50 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:37:50 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:37:50 2012] [debug] 200 OK (0.030885s, 32.378/s).
+[Mon Oct 22 02:37:51 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:37:51 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:37:51 2012] [debug] 200 OK (0.031489s, 31.757/s).
+[Mon Oct 22 02:37:52 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:37:52 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:37:52 2012] [debug] 200 OK (0.032057s, 31.194/s).
+[Mon Oct 22 02:37:54 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:37:54 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:37:54 2012] [debug] 200 OK (0.036660s, 27.278/s).
+[Mon Oct 22 02:37:55 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:37:55 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:37:55 2012] [debug] 200 OK (0.031936s, 31.313/s).
+[Mon Oct 22 02:37:56 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:37:56 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:37:56 2012] [debug] 200 OK (0.040118s, 24.926/s).
+[Mon Oct 22 02:38:00 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:00 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:00 2012] [debug] 200 OK (0.025102s, 39.837/s).
+[Mon Oct 22 02:38:02 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:02 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:02 2012] [debug] 200 OK (0.025620s, 39.032/s).
+[Mon Oct 22 02:38:04 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:04 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:04 2012] [debug] 200 OK (0.025219s, 39.653/s).
+[Mon Oct 22 02:38:07 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:07 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:07 2012] [debug] 200 OK (0.062925s, 15.892/s).
+[Mon Oct 22 02:38:14 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:14 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:14 2012] [debug] 200 OK (0.068044s, 14.696/s).
+[Mon Oct 22 02:38:14 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:14 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:14 2012] [debug] 200 OK (0.027870s, 35.881/s).
+[Mon Oct 22 02:38:19 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:19 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:19 2012] [debug] 200 OK (0.025939s, 38.552/s).
+[Mon Oct 22 02:38:19 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:19 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:19 2012] [debug] 200 OK (0.019909s, 50.229/s).
+[Mon Oct 22 02:38:21 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:21 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:21 2012] [debug] 200 OK (0.022998s, 43.482/s).
+[Mon Oct 22 02:38:26 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:26 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:27 2012] [debug] 200 OK (0.021067s, 47.468/s).
+[Mon Oct 22 02:38:27 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:27 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:27 2012] [debug] 200 OK (0.026227s, 38.129/s).
+[Mon Oct 22 02:38:37 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:37 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:37 2012] [debug] 200 OK (0.122039s, 8.194/s).
+[Mon Oct 22 02:38:37 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:37 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:37 2012] [debug] 200 OK (0.121016s, 8.263/s).
+[Mon Oct 22 02:38:45 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:45 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:46 2012] [debug] 200 OK (0.121858s, 8.206/s).
+[Mon Oct 22 02:38:47 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:47 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:47 2012] [debug] 200 OK (0.114889s, 8.704/s).
+[Mon Oct 22 02:38:47 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:47 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:47 2012] [debug] 200 OK (0.113528s, 8.808/s).
+[Mon Oct 22 02:38:48 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:48 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:48 2012] [debug] 200 OK (0.113890s, 8.780/s).
+[Mon Oct 22 02:38:48 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:48 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:48 2012] [debug] 200 OK (0.113707s, 8.795/s).
+[Mon Oct 22 02:38:49 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:49 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:49 2012] [debug] 200 OK (0.112703s, 8.873/s).
+[Mon Oct 22 02:38:49 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:49 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:49 2012] [debug] 200 OK (0.114742s, 8.715/s).
+[Mon Oct 22 02:38:50 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:50 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:50 2012] [debug] 200 OK (0.115107s, 8.688/s).
+[Mon Oct 22 02:38:50 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:50 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:50 2012] [debug] 200 OK (0.111199s, 8.993/s).
+[Mon Oct 22 02:38:50 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:50 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:50 2012] [debug] 200 OK (0.113113s, 8.841/s).
+[Mon Oct 22 02:38:51 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:51 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:51 2012] [debug] 200 OK (0.125661s, 7.958/s).
+[Mon Oct 22 02:38:51 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:51 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:51 2012] [debug] 200 OK (0.112655s, 8.877/s).
+[Mon Oct 22 02:38:52 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:52 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:52 2012] [debug] 200 OK (0.125520s, 7.967/s).
+[Mon Oct 22 02:38:52 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:52 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:52 2012] [debug] 200 OK (0.112367s, 8.899/s).
+[Mon Oct 22 02:38:53 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:53 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:53 2012] [debug] 200 OK (0.112123s, 8.919/s).
+[Mon Oct 22 02:38:53 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:53 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:53 2012] [debug] 200 OK (0.109154s, 9.161/s).
+[Mon Oct 22 02:38:54 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:54 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:54 2012] [debug] 200 OK (0.112201s, 8.913/s).
+[Mon Oct 22 02:38:54 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:54 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:54 2012] [debug] 200 OK (0.112589s, 8.882/s).
+[Mon Oct 22 02:38:55 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:55 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:55 2012] [debug] 200 OK (0.119848s, 8.344/s).
+[Mon Oct 22 02:38:55 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:55 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:55 2012] [debug] 200 OK (0.111592s, 8.961/s).
+[Mon Oct 22 02:38:56 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:56 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:56 2012] [debug] 200 OK (0.121702s, 8.217/s).
+[Mon Oct 22 02:38:56 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:56 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:56 2012] [debug] 200 OK (0.120348s, 8.309/s).
+[Mon Oct 22 02:38:57 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:38:57 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:38:57 2012] [debug] 200 OK (0.123442s, 8.101/s).
+[Mon Oct 22 02:39:03 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:39:03 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:39:03 2012] [debug] 200 OK (0.095734s, 10.446/s).
+[Mon Oct 22 02:39:21 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:39:21 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:39:21 2012] [debug] 200 OK (0.123228s, 8.115/s).
+[Mon Oct 22 02:39:29 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:39:29 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:39:29 2012] [debug] 200 OK (0.198357s, 5.041/s).
+[Mon Oct 22 02:39:39 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:39:39 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:39:39 2012] [debug] 200 OK (0.179722s, 5.564/s).
+[Mon Oct 22 02:39:40 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:39:40 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:39:40 2012] [debug] 200 OK (0.093467s, 10.699/s).
+[Mon Oct 22 02:39:42 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:39:42 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:39:42 2012] [debug] 200 OK (0.215699s, 4.636/s).
+[Mon Oct 22 02:39:56 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:39:56 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:39:57 2012] [debug] 200 OK (0.103142s, 9.695/s).
+[Mon Oct 22 02:39:57 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:39:57 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:39:57 2012] [debug] 200 OK (0.099482s, 10.052/s).
+[Mon Oct 22 02:39:58 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:39:58 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:39:59 2012] [debug] 200 OK (0.184626s, 5.416/s).
+[Mon Oct 22 02:39:59 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:39:59 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:39:59 2012] [debug] 200 OK (0.092989s, 10.754/s).
+[Mon Oct 22 02:40:01 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:40:01 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:40:01 2012] [debug] 200 OK (0.232409s, 4.303/s).
+[Mon Oct 22 02:40:04 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:40:04 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:40:04 2012] [debug] 200 OK (0.186098s, 5.374/s).
+[Mon Oct 22 02:40:08 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:40:08 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:40:08 2012] [debug] 200 OK (0.216915s, 4.610/s).
+[Mon Oct 22 02:40:10 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:40:10 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:40:11 2012] [debug] 200 OK (0.186178s, 5.371/s).
+[Mon Oct 22 02:40:22 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:40:22 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:40:23 2012] [debug] 200 OK (0.114259s, 8.752/s).
+[Mon Oct 22 02:40:26 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:40:26 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:40:26 2012] [debug] 200 OK (0.125923s, 7.941/s).
+[Mon Oct 22 02:40:28 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:40:28 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:40:28 2012] [debug] 200 OK (0.095130s, 10.512/s).
+[Mon Oct 22 02:40:29 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:40:29 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:40:29 2012] [debug] 200 OK (0.116348s, 8.595/s).
+[Mon Oct 22 02:40:31 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:40:31 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:40:32 2012] [debug] 200 OK (0.108705s, 9.199/s).
+[Mon Oct 22 02:40:34 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:40:34 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:40:34 2012] [debug] 200 OK (0.096717s, 10.339/s).
+[Mon Oct 22 02:40:35 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:40:35 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:40:35 2012] [debug] 200 OK (0.118310s, 8.452/s).
+[Mon Oct 22 02:40:36 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:40:36 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:40:36 2012] [debug] 200 OK (0.116051s, 8.617/s).
+[Mon Oct 22 02:42:12 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:42:12 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:42:12 2012] [debug] 200 OK (0.116183s, 8.607/s).
+[Mon Oct 22 02:42:13 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:42:13 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:42:13 2012] [debug] 200 OK (0.064209s, 15.574/s).
+[Mon Oct 22 02:42:45 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:42:45 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:42:45 2012] [debug] 200 OK (0.118847s, 8.414/s).
+[Mon Oct 22 02:42:49 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:42:49 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:42:49 2012] [debug] 200 OK (0.088183s, 11.340/s).
+[Mon Oct 22 02:42:54 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:42:54 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:42:54 2012] [debug] 200 OK (0.111317s, 8.983/s).
+[Mon Oct 22 02:43:28 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:43:28 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:43:31 2012] [debug] 200 OK (3.329922s, 0.300/s).
+[Mon Oct 22 02:43:31 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:43:31 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:43:36 2012] [debug] 200 OK (4.969273s, 0.201/s).
+[Mon Oct 22 02:43:37 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:43:37 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:43:41 2012] [debug] 200 OK (4.498040s, 0.222/s).
+[Mon Oct 22 02:43:46 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:43:46 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:43:51 2012] [debug] 200 OK (4.949905s, 0.202/s).
+[Mon Oct 22 02:43:55 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:43:55 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:43:59 2012] [debug] 200 OK (4.313775s, 0.232/s).
+[Mon Oct 22 02:44:09 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:44:09 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:44:13 2012] [debug] 200 OK (3.842368s, 0.260/s).
+[Mon Oct 22 02:44:13 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:44:13 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:44:17 2012] [debug] 200 OK (3.850922s, 0.260/s).
+[Mon Oct 22 02:44:26 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:44:26 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:44:29 2012] [debug] 200 OK (3.201406s, 0.312/s).
+[Mon Oct 22 02:44:39 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:44:39 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:44:42 2012] [debug] 200 OK (3.246033s, 0.308/s).
+[Mon Oct 22 02:52:16 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:52:16 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:52:19 2012] [debug] 200 OK (3.167402s, 0.316/s).
+[Mon Oct 22 02:52:19 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:52:19 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:52:22 2012] [debug] 200 OK (3.140369s, 0.318/s).
+[Mon Oct 22 02:52:23 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 02:52:23 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 02:52:27 2012] [debug] 200 OK (3.206378s, 0.312/s).
+[Mon Oct 22 03:33:36 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:33:36 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:33:40 2012] [debug] 200 OK (4.092488s, 0.244/s).
+[Mon Oct 22 03:33:41 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:33:41 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:33:45 2012] [debug] 200 OK (4.142715s, 0.241/s).
+[Mon Oct 22 03:33:45 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:33:45 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:33:49 2012] [debug] 200 OK (4.511073s, 0.222/s).
+[Mon Oct 22 03:33:50 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:33:50 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:33:54 2012] [debug] 200 OK (4.270065s, 0.234/s).
+[Mon Oct 22 03:33:54 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:33:54 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:33:59 2012] [debug] 200 OK (4.439130s, 0.225/s).
+[Mon Oct 22 03:33:59 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:33:59 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:34:03 2012] [debug] 200 OK (4.420099s, 0.226/s).
+[Mon Oct 22 03:34:03 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:34:03 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:34:08 2012] [debug] 200 OK (4.289530s, 0.233/s).
+[Mon Oct 22 03:34:08 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:34:08 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:34:12 2012] [debug] 200 OK (4.275930s, 0.234/s).
+[Mon Oct 22 03:34:17 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:34:17 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:34:21 2012] [debug] 200 OK (4.449565s, 0.225/s).
+[Mon Oct 22 03:38:55 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:38:55 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:38:59 2012] [debug] 200 OK (4.456066s, 0.224/s).
+[Mon Oct 22 03:39:08 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:39:08 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:39:12 2012] [debug] 200 OK (3.752640s, 0.266/s).
+[Mon Oct 22 03:40:26 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:40:26 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:40:31 2012] [debug] 200 OK (4.485941s, 0.223/s).
+[Mon Oct 22 03:40:35 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:40:35 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:40:39 2012] [debug] 200 OK (3.723936s, 0.269/s).
+[Mon Oct 22 03:40:39 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:40:39 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:40:43 2012] [debug] 200 OK (3.750753s, 0.267/s).
+[Mon Oct 22 03:40:43 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:40:43 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:40:46 2012] [debug] 200 OK (3.669571s, 0.273/s).
+[Mon Oct 22 03:41:20 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:41:20 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:41:24 2012] [debug] 200 OK (4.053515s, 0.247/s).
+[Mon Oct 22 03:41:24 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:41:24 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:41:27 2012] [debug] 200 OK (3.123664s, 0.320/s).
+[Mon Oct 22 03:42:03 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:42:03 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:42:08 2012] [debug] 200 OK (4.463067s, 0.224/s).
+[Mon Oct 22 03:42:08 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:42:08 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:42:12 2012] [debug] 200 OK (4.033432s, 0.248/s).
+[Mon Oct 22 03:42:12 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:42:12 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:42:15 2012] [debug] 200 OK (3.135660s, 0.319/s).
+[Mon Oct 22 03:42:20 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:42:20 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:42:24 2012] [debug] 200 OK (4.118035s, 0.243/s).
+[Mon Oct 22 03:42:24 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:42:24 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:42:27 2012] [debug] 200 OK (3.140671s, 0.318/s).
+[Mon Oct 22 03:42:30 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:42:30 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:42:34 2012] [debug] 200 OK (3.971005s, 0.252/s).
+[Mon Oct 22 03:44:23 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:44:23 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:44:28 2012] [debug] 200 OK (4.387669s, 0.228/s).
+[Mon Oct 22 03:44:40 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:44:40 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:44:45 2012] [debug] 200 OK (4.395484s, 0.228/s).
+[Mon Oct 22 03:50:00 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:50:00 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:50:04 2012] [debug] 200 OK (4.036013s, 0.248/s).
+[Mon Oct 22 03:50:04 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 03:50:04 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 03:50:07 2012] [debug] 200 OK (3.118600s, 0.321/s).
+[Mon Oct 22 04:00:17 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:00:17 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:00:21 2012] [debug] the code took: 4 wallclock secs ( 3.46 usr +  1.62 sys =  5.09 CPU)
+[Mon Oct 22 04:00:21 2012] [debug] 200 OK (4.087208s, 0.245/s).
+[Mon Oct 22 04:00:26 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:00:26 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:00:31 2012] [debug] the code took: 5 wallclock secs ( 3.17 usr +  2.26 sys =  5.43 CPU)
+[Mon Oct 22 04:00:31 2012] [debug] 200 OK (4.364055s, 0.229/s).
+[Mon Oct 22 04:00:55 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:00:55 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:00:59 2012] [debug] the code took: 4 wallclock secs ( 3.49 usr +  1.62 sys =  5.12 CPU)
+[Mon Oct 22 04:00:59 2012] [debug] 200 OK (4.131883s, 0.242/s).
+[Mon Oct 22 04:01:00 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:01:00 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:01:05 2012] [debug] the code took: 5 wallclock secs ( 3.32 usr +  2.25 sys =  5.57 CPU)
+[Mon Oct 22 04:01:05 2012] [debug] 200 OK (4.378556s, 0.228/s).
+[Mon Oct 22 04:01:10 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:01:10 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:01:14 2012] [debug] the code took: 4 wallclock secs ( 3.32 usr +  1.76 sys =  5.09 CPU)
+[Mon Oct 22 04:01:14 2012] [debug] 200 OK (4.022889s, 0.249/s).
+[Mon Oct 22 04:01:18 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:01:18 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:01:22 2012] [debug] the code took: 4 wallclock secs ( 3.43 usr +  1.72 sys =  5.15 CPU)
+[Mon Oct 22 04:01:22 2012] [debug] 200 OK (4.047513s, 0.247/s).
+[Mon Oct 22 04:01:25 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:01:25 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:01:30 2012] [debug] the code took: 5 wallclock secs ( 3.40 usr +  2.22 sys =  5.62 CPU)
+[Mon Oct 22 04:01:30 2012] [debug] 200 OK (4.360467s, 0.229/s).
+[Mon Oct 22 04:01:32 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:01:32 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:01:37 2012] [debug] the code took: 5 wallclock secs ( 4.23 usr +  2.14 sys =  6.37 CPU)
+[Mon Oct 22 04:01:37 2012] [debug] 200 OK (4.905036s, 0.204/s).
+[Mon Oct 22 04:01:39 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:01:39 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:01:44 2012] [debug] the code took: 5 wallclock secs ( 4.34 usr +  2.06 sys =  6.40 CPU)
+[Mon Oct 22 04:01:44 2012] [debug] 200 OK (4.933126s, 0.203/s).
+[Mon Oct 22 04:01:49 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:01:49 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:01:54 2012] [debug] the code took: 5 wallclock secs ( 4.49 usr +  2.01 sys =  6.51 CPU)
+[Mon Oct 22 04:01:54 2012] [debug] 200 OK (4.998708s, 0.200/s).
+[Mon Oct 22 04:01:57 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:01:57 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:02:02 2012] [debug] the code took: 5 wallclock secs ( 4.29 usr +  1.81 sys =  6.10 CPU)
+[Mon Oct 22 04:02:02 2012] [debug] 200 OK (4.971762s, 0.201/s).
+[Mon Oct 22 04:02:06 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:02:06 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:02:10 2012] [debug] the code took: 4 wallclock secs ( 3.51 usr +  2.04 sys =  5.55 CPU)
+[Mon Oct 22 04:02:10 2012] [debug] 200 OK (4.344052s, 0.230/s).
+[Mon Oct 22 04:02:14 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:02:14 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:02:18 2012] [debug] the code took: 4 wallclock secs ( 3.51 usr +  1.95 sys =  5.46 CPU)
+[Mon Oct 22 04:02:18 2012] [debug] 200 OK (4.311047s, 0.232/s).
+[Mon Oct 22 04:02:22 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:02:22 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:02:26 2012] [debug] the code took: 4 wallclock secs ( 3.35 usr +  2.12 sys =  5.47 CPU)
+[Mon Oct 22 04:02:26 2012] [debug] 200 OK (4.351052s, 0.230/s).
+[Mon Oct 22 04:02:30 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:02:30 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:02:34 2012] [debug] the code took: 4 wallclock secs ( 3.49 usr +  1.64 sys =  5.13 CPU)
+[Mon Oct 22 04:02:34 2012] [debug] 200 OK (4.102521s, 0.244/s).
+[Mon Oct 22 04:02:43 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:02:43 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:02:47 2012] [debug] the code took: 4 wallclock secs ( 3.57 usr +  1.64 sys =  5.21 CPU)
+[Mon Oct 22 04:02:47 2012] [debug] 200 OK (4.090519s, 0.244/s).
+[Mon Oct 22 04:02:49 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:02:49 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:02:53 2012] [debug] the code took: 4 wallclock secs ( 3.54 usr +  1.68 sys =  5.23 CPU)
+[Mon Oct 22 04:02:53 2012] [debug] 200 OK (4.117379s, 0.243/s).
+[Mon Oct 22 04:03:24 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:03:24 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:03:28 2012] [debug] the code took: 4 wallclock secs ( 3.48 usr +  1.67 sys =  5.15 CPU)
+[Mon Oct 22 04:03:28 2012] [debug] 200 OK (4.092064s, 0.244/s).
+[Mon Oct 22 04:03:32 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:03:32 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:03:37 2012] [debug] the code took: 5 wallclock secs ( 3.78 usr +  1.56 sys =  5.34 CPU)
+[Mon Oct 22 04:03:37 2012] [debug] 200 OK (4.230087s, 0.236/s).
+[Mon Oct 22 04:03:37 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:03:37 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:03:41 2012] [debug] the code took: 4 wallclock secs ( 3.63 usr +  1.31 sys =  4.95 CPU)
+[Mon Oct 22 04:03:41 2012] [debug] 200 OK (3.817751s, 0.262/s).
+[Mon Oct 22 04:03:41 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:03:41 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:03:45 2012] [debug] the code took: 4 wallclock secs ( 3.43 usr +  1.47 sys =  4.90 CPU)
+[Mon Oct 22 04:03:45 2012] [debug] 200 OK (3.747064s, 0.267/s).
+[Mon Oct 22 04:04:18 2012] [info] Listening at "http://*:3000".
+[Mon Oct 22 04:04:32 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:04:32 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:04:32 2012] [debug] the code took: 0 wallclock secs ( 0.19 usr +  0.00 sys =  0.19 CPU)
+[Mon Oct 22 04:04:32 2012] [debug] 200 OK (0.110657s, 9.037/s).
+[Mon Oct 22 04:04:32 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:04:32 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:04:32 2012] [debug] the code took: 0 wallclock secs ( 0.11 usr +  0.12 sys =  0.23 CPU)
+[Mon Oct 22 04:04:32 2012] [debug] 200 OK (0.240489s, 4.158/s).
+[Mon Oct 22 04:04:34 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:04:34 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:04:35 2012] [debug] the code took: 1 wallclock secs ( 0.06 usr +  0.00 sys =  0.06 CPU)
+[Mon Oct 22 04:04:35 2012] [debug] 200 OK (0.239324s, 4.178/s).
+[Mon Oct 22 04:04:35 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:04:35 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:04:35 2012] [debug] the code took: 0 wallclock secs ( 0.16 usr +  0.08 sys =  0.23 CPU)
+[Mon Oct 22 04:04:35 2012] [debug] 200 OK (0.242755s, 4.119/s).
+[Mon Oct 22 04:04:35 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:04:35 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:04:35 2012] [debug] the code took: 0 wallclock secs ( 0.02 usr +  0.00 sys =  0.02 CPU)
+[Mon Oct 22 04:04:35 2012] [debug] 200 OK (0.230571s, 4.337/s).
+[Mon Oct 22 04:04:41 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:04:41 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:04:41 2012] [debug] the code took: 0 wallclock secs ( 0.02 usr +  0.00 sys =  0.02 CPU)
+[Mon Oct 22 04:04:41 2012] [debug] 200 OK (0.228534s, 4.376/s).
+[Mon Oct 22 04:04:48 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:04:48 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:04:48 2012] [debug] the code took: 0 wallclock secs ( 0.02 usr +  0.00 sys =  0.02 CPU)
+[Mon Oct 22 04:04:48 2012] [debug] 200 OK (0.236052s, 4.236/s).
+[Mon Oct 22 04:05:14 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:05:14 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:05:14 2012] [debug] the code took: 0 wallclock secs ( 0.20 usr +  0.02 sys =  0.22 CPU)
+[Mon Oct 22 04:05:14 2012] [debug] 200 OK (0.320468s, 3.120/s).
+[Mon Oct 22 04:05:18 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:05:18 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:05:19 2012] [debug] the code took: 1 wallclock secs ( 0.20 usr +  0.08 sys =  0.28 CPU)
+[Mon Oct 22 04:05:19 2012] [debug] 200 OK (0.252884s, 3.954/s).
+[Mon Oct 22 04:05:26 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:05:26 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:05:26 2012] [debug] the code took: 0 wallclock secs ( 0.03 usr +  0.00 sys =  0.03 CPU)
+[Mon Oct 22 04:05:26 2012] [debug] 200 OK (0.236868s, 4.222/s).
+[Mon Oct 22 04:05:29 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:05:29 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:05:29 2012] [debug] the code took: 0 wallclock secs ( 0.06 usr +  0.02 sys =  0.08 CPU)
+[Mon Oct 22 04:05:29 2012] [debug] 200 OK (0.236180s, 4.234/s).
+[Mon Oct 22 04:05:29 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:05:29 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:05:30 2012] [debug] the code took: 1 wallclock secs ( 0.16 usr +  0.11 sys =  0.27 CPU)
+[Mon Oct 22 04:05:30 2012] [debug] 200 OK (0.238578s, 4.192/s).
+[Mon Oct 22 04:05:32 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:05:32 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:05:33 2012] [debug] the code took: 1 wallclock secs ( 0.17 usr +  0.09 sys =  0.26 CPU)
+[Mon Oct 22 04:05:33 2012] [debug] 200 OK (0.248454s, 4.025/s).
+[Mon Oct 22 04:05:33 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:05:33 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:05:33 2012] [debug] the code took: 0 wallclock secs ( 0.05 usr +  0.13 sys =  0.17 CPU)
+[Mon Oct 22 04:05:33 2012] [debug] 200 OK (0.241486s, 4.141/s).
+[Mon Oct 22 04:05:33 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:05:33 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:05:33 2012] [debug] the code took: 0 wallclock secs ( 0.03 usr +  0.00 sys =  0.03 CPU)
+[Mon Oct 22 04:05:33 2012] [debug] 200 OK (0.235055s, 4.254/s).
+[Mon Oct 22 04:05:36 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:05:36 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:05:36 2012] [debug] the code took: 0 wallclock secs ( 0.03 usr +  0.00 sys =  0.03 CPU)
+[Mon Oct 22 04:05:36 2012] [debug] 200 OK (0.240183s, 4.163/s).
+[Mon Oct 22 04:05:36 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:05:36 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:05:36 2012] [debug] the code took: 0 wallclock secs ( 0.03 usr +  0.00 sys =  0.03 CPU)
+[Mon Oct 22 04:05:36 2012] [debug] 200 OK (0.234994s, 4.255/s).
+[Mon Oct 22 04:05:36 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:05:36 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:05:37 2012] [debug] the code took: 1 wallclock secs ( 0.16 usr +  0.06 sys =  0.22 CPU)
+[Mon Oct 22 04:05:37 2012] [debug] 200 OK (0.233426s, 4.284/s).
+[Mon Oct 22 04:05:39 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:05:39 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:05:39 2012] [debug] the code took: 0 wallclock secs ( 0.02 usr +  0.02 sys =  0.03 CPU)
+[Mon Oct 22 04:05:39 2012] [debug] 200 OK (0.231941s, 4.311/s).
+[Mon Oct 22 04:05:39 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:05:39 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:05:39 2012] [debug] the code took: 0 wallclock secs ( 0.02 usr +  0.00 sys =  0.02 CPU)
+[Mon Oct 22 04:05:39 2012] [debug] 200 OK (0.231783s, 4.314/s).
+[Mon Oct 22 04:05:39 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Mon Oct 22 04:05:39 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Mon Oct 22 04:05:39 2012] [debug] the code took: 0 wallclock secs ( 0.02 usr +  0.00 sys =  0.02 CPU)
+[Mon Oct 22 04:05:39 2012] [debug] 200 OK (0.225965s, 4.425/s).
+[Tue Oct 23 23:42:48 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Tue Oct 23 23:42:48 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Tue Oct 23 23:42:48 2012] [debug] 200 OK (0.076784s, 13.024/s).
+[Tue Oct 23 23:42:57 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Tue Oct 23 23:42:57 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Tue Oct 23 23:42:57 2012] [debug] 200 OK (0.026499s, 37.737/s).
+[Sat Nov 24 22:36:49 2012] [info] Listening at "http://*:3000".
+[Sat Nov 24 22:36:58 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0).
+[Sat Nov 24 22:36:58 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sat Nov 24 22:36:58 2012] [debug] 200 OK (0.170948s, 5.850/s).
+[Sat Nov 24 22:37:02 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0).
+[Sat Nov 24 22:37:02 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sat Nov 24 22:37:02 2012] [debug] 200 OK (0.074174s, 13.482/s).
+[Sat Nov 24 22:37:05 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0).
+[Sat Nov 24 22:37:05 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sat Nov 24 22:37:06 2012] [debug] 200 OK (0.071148s, 14.055/s).
+[Sat Nov 24 22:37:06 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0).
+[Sat Nov 24 22:37:06 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sat Nov 24 22:37:06 2012] [debug] 200 OK (0.067045s, 14.915/s).
+[Sat Nov 24 22:37:07 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0).
+[Sat Nov 24 22:37:07 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sat Nov 24 22:37:07 2012] [debug] 200 OK (0.067464s, 14.823/s).
+[Sat Nov 24 22:37:08 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0).
+[Sat Nov 24 22:37:08 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sat Nov 24 22:37:08 2012] [debug] 200 OK (0.071583s, 13.970/s).
+[Sat Nov 24 22:37:08 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0).
+[Sat Nov 24 22:37:08 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sat Nov 24 22:37:08 2012] [debug] 200 OK (0.071204s, 14.044/s).
+[Sat Nov 24 22:37:09 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0).
+[Sat Nov 24 22:37:09 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sat Nov 24 22:37:09 2012] [debug] 200 OK (0.070085s, 14.268/s).
+[Sat Nov 24 22:37:09 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0).
+[Sat Nov 24 22:37:09 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sat Nov 24 22:37:09 2012] [debug] 200 OK (0.072952s, 13.708/s).
+[Sat Nov 24 22:37:09 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0).
+[Sat Nov 24 22:37:09 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sat Nov 24 22:37:09 2012] [debug] 200 OK (0.072298s, 13.832/s).
+[Sat Nov 24 22:37:28 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0).
+[Sat Nov 24 22:37:28 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sat Nov 24 22:37:29 2012] [debug] 200 OK (0.078879s, 12.678/s).
+[Sat Nov 24 22:43:30 2012] [info] Listening at "http://*:3000".
+[Sat Nov 24 22:43:41 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0).
+[Sat Nov 24 22:43:41 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sat Nov 24 22:43:41 2012] [debug] 200 OK (0.094107s, 10.626/s).
+[Sat Nov 24 22:43:46 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0).
+[Sat Nov 24 22:43:46 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sat Nov 24 22:43:46 2012] [debug] 200 OK (0.028189s, 35.475/s).
+[Sat Nov 24 22:43:49 2012] [debug] GET /datatables/table (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0).
+[Sat Nov 24 22:43:49 2012] [debug] Routing to controller "TestDataTables::Datatables" and action "table".
+[Sat Nov 24 22:43:49 2012] [debug] 200 OK (0.024146s, 41.415/s).
