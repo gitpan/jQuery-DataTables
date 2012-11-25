@@ -16,3 +16,4 @@ If you are on a windows box you should use 'nmake' rather than 'make'.
 
 
 examples/test_data_tables - full-functional example ( Mojolicious framework + SQLite)
+( It use SQLite - aptitude install sqlite3 ; cpanm DBD::SQLite)

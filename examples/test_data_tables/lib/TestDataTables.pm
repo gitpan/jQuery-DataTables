@@ -1,10 +1,8 @@
 package TestDataTables;
-use v5.14;
 use strict;
 use warnings;
 use utf8;
 use open qw(:std :utf8);
-
 
 use Mojo::Base 'Mojolicious';
 
@@ -42,7 +40,7 @@ END
 		my $sth   = $app->dbh->prepare($query);
 
 		my $id = 0;
-		my @chars = ( ' ', ' ', ' ', ' ', 'a' .. 'z' , 0..9);
+		my @chars = ( ' ', ' ', ' ', ' ', 'a' .. 'z', 0 .. 9 );
 		foreach my $i ( 1 .. 1000 ) {
 			$id++;
 			my ( $col_int, $col_text, $col_real ) = ( rand(1000), '', rand() );
@@ -82,7 +80,7 @@ sub addHooks {
 					$c->res->headers->cache_control('max-age=86400, must-revalidate');
 				} ## end if ( $type =~ /^text\/css/o...)
 			} ## end if ( $type && $c->res->code)
-			}
+		}
 	);
 } ## end sub addHooks
 
@@ -91,7 +89,8 @@ sub addRoutes {
 
 	my $r = $self->routes;
 
-	$r->route('/datatables/table')->name('datatables-table')->to('datatables#table');
+	$r->route('/datatables/table')->name('datatables_table')->to('datatables#table');
+	$r->route('/')->to( 'cb' => sub { shift->redirect_to('/index.html'); } );
 
 } ## end sub addRoutes
 1;

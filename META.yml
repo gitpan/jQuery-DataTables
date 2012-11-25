@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               jQuery-DataTables
-version:            0.902
+version:            0.905
 abstract:           Server-side part of DataTables
 author:
     - Konstantin Tokar (konstantin@tokar.ru)
