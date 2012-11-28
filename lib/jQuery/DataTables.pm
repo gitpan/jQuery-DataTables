@@ -2,12 +2,12 @@ package jQuery::DataTables;
 use strict;
 use warnings;
 use utf8;
-use Data::Dump qw(ddx dd pp);
+#use Data::Dump qw(ddx dd pp);
 
 BEGIN {
     use Exporter ();
     use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
-    $VERSION     = '0.905';
+    $VERSION     = '0.906';
     @ISA         = qw(Exporter);
     #Give a hoot don't pollute, do not export more than needed by default
     @EXPORT      = qw();
@@ -106,7 +106,7 @@ sub prepareDataTableRequest {
 	my $self = shift;
 	my $c    = $self->{cgi};    # CGI-compatible by param()
 
-	ddx $c->req->params->to_hash;
+	#ddx $c->req->params->to_hash;
 
 	# соберём всё в более удобные объекты
 
@@ -215,7 +215,7 @@ sub prepareDataTableRequest {
 		asSortDir    => \@asSortDir,   #Направление сортировки - DESC или ASC
 
 	};
-	ddx $req;
+	#ddx $req;
 	$self->{req} = $req;
 	return $req;
 } ## end sub prepareDataTableRequest
@@ -332,7 +332,7 @@ select count(*) from(
 )
 END
 
-	ddx $query_iTotalRecords;
+	#ddx $query_iTotalRecords;
 	my ($iTotalRecords) = $dbh->selectrow_array($query_iTotalRecords);
 
 	my $query_iTotalDisplayRecords = <<END;
@@ -342,7 +342,7 @@ select count(*) from(
 )
 END
 
-	ddx $query_iTotalDisplayRecords;
+	#ddx $query_iTotalDisplayRecords;
 	my ($iTotalDisplayRecords) = $dbh->selectrow_array($query_iTotalDisplayRecords);
 
 	my $query_result = <<END;
@@ -352,7 +352,7 @@ $order
 $limit
 END
 
-	ddx $query_result;
+	#ddx $query_result;
 	my $aaData = $dbh->selectall_arrayref( $query_result, {}, );
 	return {
 		"sEcho"                => $r->{'sEcho'},
